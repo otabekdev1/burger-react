@@ -1,0 +1,48 @@
+section ul li a {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 23px;
+  text-transform: capitalize;
+  text-decoration: none;
+  list-style: none;
+  color: #7a7a7a;
+}
+li {
+  margin-top: 45px;
+  margin-bottom: 45px;
+  padding: 10px;
+  list-style: none;
+}
+ul li a:hover {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 23px;
+  text-transform: capitalize;
+  color: #4e9f0d;
+}
+.card-img {
+  width: 350px;
+  height: 350px;
+}
+.card-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-transform: uppercase;
+  color: #4e9f0d;
+  margin-top: 36px;
+  margin-bottom: 7px;
+}
+.card-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 23px;
+  width: 344px;
+  height: 75px;
+  color: #ffffff;
+}

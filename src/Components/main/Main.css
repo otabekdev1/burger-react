@@ -1,0 +1,30 @@
+main {
+  background-image: url(../img/section-bg.png);
+  background-size: cover;
+  margin-bottom: 44px;
+}
+h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  color: #4e9f0d;
+}
+.line {
+  width: 202px;
+  height: 1px;
+  margin: auto;
+  background: #4e9f0d;
+}
+p {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  color: #ffffff;
+}

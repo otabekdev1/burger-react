@@ -1,0 +1,83 @@
+header {
+  background-image: url(../img/bgimg.png);
+  background-size: cover;
+}
+.navbar-brand {
+  width: 160px;
+  height: 30px;
+  background: #4e9f0d;
+  border-radius: 3px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  text-transform: uppercase;
+  margin-top: 30px;
+
+  text-align: center;
+}
+.nav-link {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  text-transform: uppercase;
+  color: #4e9f0d;
+
+  margin-top: 33px;
+}
+.nav-link:hover {
+  color: white;
+  width: auto;
+  height: 40px;
+  background: #4e9f0d;
+}
+.title-name {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 85px;
+  text-transform: uppercase;
+  color: #4e9f0d;
+  margin-top: 180px;
+}
+.title-product {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 42px;
+  text-transform: lowercase;
+  color: #4e9f0d;
+  margin-bottom: 30px;
+}
+.title-description {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  margin-bottom: 52px;
+  line-height: 21px;
+  color: #ffffff;
+}
+.title-price {
+  font-style: normal;
+  font-weight: 100;
+  font-size: 60px;
+  line-height: 70px;
+  text-transform: uppercase;
+  background: #4e9f0d;
+  color: #ffffff;
+  width: 350px;
+  height: 100px;
+  margin-bottom: 135px;
+}
+@media only screen and (max-width: 987px) {
+  header .d-flex {
+    flex-direction: column;
+  }
+}
+.hamburger-floor {
+  width: 30px;
+  height: 4px;
+  background-color: white;
+  margin: 6px 0;
+}
